@@ -1,14 +1,17 @@
 
+import"./design/navbar.css"
+import"../App.css"
+import logo from"./brandings/CADCCLGM.png"
 
 function Navbar(){
     return(
         <>
-        <div className="navbar">
-            <div className="navbar-logo">
-                CAD Customs
+        <div className="navbar d-f">
+            <div className="navbar-logo d-f">
+                <img src={logo} className="logo-png m-tb-a"></img>
             </div>
-            <div className="navbar-menu">
-                <ul className="ul">
+            <div className="navbar-menu d-f">
+                <ul className="ul d-f m-tb-a">
                     <li className="navbar-li">
                         Home
                     </li>
@@ -22,7 +25,7 @@ function Navbar(){
                         Training
                     </li>
                     <li className="navbar-li" id="login">
-                        Login
+                        Log In
                     </li>
                 </ul>
             </div>
