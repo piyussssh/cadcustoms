@@ -1,0 +1,25 @@
+
+.card-block{
+    width: 90%;
+    height: auto;
+    padding: 5% 5%;
+    justify-content: space-between;
+    /* background-color: red; */
+}
+
+
+.card-container{
+    width: 20rem;
+    height: 18rem;
+    border-radius: 0.5rem;
+    /* background-color: rgba(0, 0, 0, 0.15); */
+    padding:  2rem;
+
+}
+.iconpng{
+    width: 5rem;
+}
+.card-description{
+    font-size: 0.7rem;
+    font-weight: 300;
+}

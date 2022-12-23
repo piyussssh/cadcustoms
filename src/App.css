@@ -9,6 +9,10 @@
   color: white;
 }
 
+img{
+  height: auto;
+  width: 5rem;
+}
 .d-f{
   display: flex;
 }
@@ -20,6 +24,18 @@
   margin-bottom: auto;
 }
 
+h2{
+  font-size: 1.5rem;
+  color: #F99A51;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+h3{
+  font-size: 0.8rem;
+  color: #F99A51;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
 p{
   opacity: 0.8;
   letter-spacing: 0.02rem;

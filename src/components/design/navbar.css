@@ -6,8 +6,10 @@
 .navbar{
     width: 100vw;
     height: 5rem;
-    /* background-color: blueviolet; */
+    background-color: #131313;
     justify-content: space-between;
+    position: fixed;
+    z-index: 200;
 }
 .navbar-logo{
     width: 40%;
