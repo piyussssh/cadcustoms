@@ -1,0 +1,25 @@
+.homeone{
+
+    padding: 5% 5% 0 5% ;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.homeone-sec{
+    margin: 5rem 0;
+    width: 45%;
+}
+.main-heading{
+    font-size: 3.5rem;;
+    font-weight: 500;
+    color: #F99A51;
+}
+.content{
+    font-size: 1rem;
+    font-weight: 300;
+    padding: 0 5rem 0 0;
+}
+.homeCarImg{
+    padding: 4rem 0 0 0;
+    width: 100%;
+    height: auto;
+}
